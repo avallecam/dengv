@@ -1,0 +1,12 @@
+data/*
+muscle*
+structure*
+*.txt
+notrack/*
+data_structure/*.zip
+data_structure/results/*
+data_structure/*.tsv
+data_structure/structure
+*.fasta
+*.aln
+*.dnd
